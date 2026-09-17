@@ -101,9 +101,9 @@ KOL pack (explicit grant required)
 |---|---:|---|
 | kol_search | 0.2 | Temporarily unavailable, calls cost 0 |
 | kol_profile | 0.2 | Temporarily unavailable, calls cost 0 |
-| kol_audience | 0.3 | Temporarily unavailable, calls cost 0 |
+| kol_audience | 0.3 | Available |
 | kol_pricing | 0.3 | Available |
-| kol_performance | 0.2 | Temporarily unavailable, calls cost 0 |
+| kol_performance | 0.2 | Available |
 
 - kol_search: One native page per explicit call; sparse pages may still have a continuation. Dynamic filters require verified options.
 - kol_profile: Copy kol_search id into user; only use a returned homepage to continue into core profile/posts.
