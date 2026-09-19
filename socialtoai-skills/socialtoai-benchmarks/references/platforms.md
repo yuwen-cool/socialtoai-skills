@@ -333,7 +333,7 @@ Source: https://socialtoai.com/platforms/kuaishou/
 
 | Verb | Credits | Shape | Cursor | Reply branches | Availability |
 |---|---:|---|---|---|---|
-| search | 1.5 | item or profile_card (type=user) | yes | no | Temporarily unavailable, calls cost 0 |
+| search | 1.5 | item or profile_card (type=user) | yes | no | Available |
 | trending | 0.2 | leaderboard | no | no | Available |
 | detail | 0.2 | item | no | no | Available |
 | comments | 0.2 | item | yes | supported | Available |
