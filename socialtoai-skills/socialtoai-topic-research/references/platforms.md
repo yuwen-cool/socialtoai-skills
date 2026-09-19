@@ -358,7 +358,7 @@ Source: https://socialtoai.com/platforms/youtube/
 
 | Verb | Credits | Shape | Cursor | Reply branches | Availability |
 |---|---:|---|---|---|---|
-| search | 0.3 | item or profile_card (type=user) | yes | no | Temporarily unavailable, calls cost 0 |
+| search | 0.3 | item or profile_card (type=user) | yes | no | Available |
 | trending | 0.2 | item | no | no | Available |
 | detail | 0.2 | item | no | no | Available |
 | comments | 0.2 | item | yes | requires returned branch cursor | Available |
